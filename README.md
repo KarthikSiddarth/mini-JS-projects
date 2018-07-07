@@ -1,3 +1,7 @@
-# JS and CSS Clock
+**List of Projects**
 
-*This program was written by following the tutorial on https://javascript30.com/*
+1. JavaScript Drum kit
+
+2. Js and CSS clock
+
+3. Playing with CSS variables
