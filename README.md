@@ -15,3 +15,5 @@ _Each project has its own branch, branch and project name are same_
 6. Ajay Type Ahead
 
 7. Array Cardio Day-2
+
+8. Fun with HTML5 canvas
